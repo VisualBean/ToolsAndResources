@@ -16,3 +16,9 @@ This will be my list of tools and resources, and I will grow it over time.
 | :----------: | :---------: |
 | https://crontab.guru/ | Crontab helper.|
 | http://httpstat.us/ | Awesome api to test statuscode handling – just request http://httpstat.us/418 or any other (Supported) status code. |
+| https://www.thoughtworks.com/radar | Thoughtworks technology radar |
+
+## Great and interesting blogposts
+| Url | Description |
+| :-: | :---------: |
+| https://codeascraft.com/2018/10/10/etsys-experiment-with-immutable-documentation/ | Etsy and the idea of immutable documentation|
