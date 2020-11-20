@@ -10,6 +10,7 @@ This will be my list of tools and resources, and I will grow it over time.
 | https://www.notion.so/ | Productivity tool for all. |
 | https://dockstation.io/ | Visual tool for docker container projects. |
 | https://app.prntscr.com/en/index.html | Simple, free screenshotting tool |
+|https://www.ncrunch.net/ |Ncrunch is a Visual Studio plugin that runs unit tests on save|
 
 ## Resources
 | Resource Url | Description |
