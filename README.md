@@ -11,6 +11,7 @@ This will be my list of tools and resources, and I will grow it over time.
 | https://dockstation.io/ | Visual tool for docker container projects. |
 | https://app.prntscr.com/en/index.html | Simple, free screenshotting tool |
 |https://www.ncrunch.net/ |Ncrunch is a Visual Studio plugin that runs unit tests on save and shows coverage in the editor|
+|https://github.com/dahlbyk/posh-git| Powershell git environment (autocompletion + summary information)|
 
 ## Resources
 | Resource Url | Description |
@@ -25,7 +26,6 @@ This will be my list of tools and resources, and I will grow it over time.
 |https://github.com/Netflix/Hystrix/wiki| Netflix resiliency library, read the wiki to learn about resiliency|
 |https://medium.com/@prachimore/quick-kubernetes-cluster-installation-22d173fee533| K8s installation cheatsheet|
 |https://github.com/davidfowl/AspNetCoreDiagnosticScenarios| Best practices of async/await .net Core|
-|https://github.com/dahlbyk/posh-git| Powershell git environment (autocompletion + summary information)|
 |http://jepsen.io/consistency| Consistency models|
 
 ## Great and interesting blogposts
