@@ -12,6 +12,7 @@ This will be my list of tools and resources, and I will grow it over time.
 | https://app.prntscr.com/en/index.html | Simple, free screenshotting tool |
 |https://www.ncrunch.net/ |Ncrunch is a Visual Studio plugin that runs unit tests on save and shows coverage in the editor|
 |https://github.com/dahlbyk/posh-git| Powershell git environment (autocompletion + summary information)|
+|https://github.com/tonsky/FiraCode| Great font with ligatures|
 
 ## Resources
 | Resource Url | Description |
