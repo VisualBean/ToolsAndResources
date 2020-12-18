@@ -59,3 +59,4 @@ This will be my list of tools and resources, and I will grow it over time.
 |https://docs.microsoft.com/en-us/nuget/concepts/dependency-resolution| How NuGet solves dependency resolution| .Net, NuGet |
 |https://vimeo.com/113515335 | Finding Service Boundaries – illustrated in healthcare | DDD, Distributed Systems|
 |https://posts.specterops.io/the-hitchhikers-guide-to-initial-access-57b66aa80dd6|Phishing how to get initial access|Security, Phishing |
+|http://georgemauer.net/2017/10/07/csv-injection.html|CSV Injections| Security, Injections|
