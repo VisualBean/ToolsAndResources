@@ -28,6 +28,7 @@ This will be my list of tools and resources, and I will grow it over time.
 |https://medium.com/@prachimore/quick-kubernetes-cluster-installation-22d173fee533| K8s installation cheatsheet|
 |https://github.com/davidfowl/AspNetCoreDiagnosticScenarios| Best practices of async/await .net Core|
 |http://jepsen.io/consistency| Consistency models|
+|https://www.cnpatterns.org/patterns-library| Cloud native patterns|
 
 ## Great and interesting blogposts
 | Url | Description | Tags |
