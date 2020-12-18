@@ -29,6 +29,7 @@ This will be my list of tools and resources, and I will grow it over time.
 |https://github.com/davidfowl/AspNetCoreDiagnosticScenarios| Best practices of async/await .net Core|
 |http://jepsen.io/consistency| Consistency models|
 |https://www.cnpatterns.org/patterns-library| Cloud native patterns|
+|https://github.com/yeyintminthuhtut/Awesome-Red-Teaming|A Great resource for all things hacking|
 
 ## Great and interesting blogposts
 | Url | Description | Tags |
