@@ -61,3 +61,4 @@ This will be my list of tools and resources, and I will grow it over time.
 |https://vimeo.com/113515335 | Finding Service Boundaries – illustrated in healthcare | DDD, Distributed Systems|
 |https://posts.specterops.io/the-hitchhikers-guide-to-initial-access-57b66aa80dd6|Phishing how to get initial access|Security, Phishing |
 |http://georgemauer.net/2017/10/07/csv-injection.html|CSV Injections| Security, Injections|
+|https://vkontech.com/exploring-the-async-await-state-machine-the-awaitable-pattern/|How async/await works, under the covers.|.Net async/await|
