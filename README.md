@@ -14,6 +14,7 @@ This will be my list of tools and resources, and I will grow it over time.
 |https://github.com/dahlbyk/posh-git| Powershell git environment (autocompletion + summary information)|
 |https://ohmyposh.dev/| make powershell, or any shell for that matter, awesome!|
 |https://github.com/tonsky/FiraCode| Great font with ligatures|
+|https://github.com/awaescher/RepoZ| Some nice git 'flavour' for windows and mac|
 
 ## Resources
 | Resource Url | Description |
