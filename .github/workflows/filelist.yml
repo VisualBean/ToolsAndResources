@@ -17,4 +17,4 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: ankitjain28may/list-files-in-pr@v1.0
         with:
-          ghToken: ${{ github.token }}
+          githubToken: ${{ github.token }}
